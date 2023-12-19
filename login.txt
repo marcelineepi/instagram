@@ -1,5 +1,4 @@
 login with email and passwood
 login mobile number one time passwood
 login with MFA
-login with facial recognization
-login finger print
+login finger print -->fixing finger print bug
